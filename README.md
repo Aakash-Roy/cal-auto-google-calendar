@@ -1,1 +1,1 @@
-# cal-auto-google-calendar
+# Google Calendar Automation

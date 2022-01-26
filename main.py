@@ -16,15 +16,6 @@ also you have to download credentials.json file which will be availble on you Go
 
 3. And, you have to (pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib)
 '''
-print(r"""                                      
-         //\\           ||  //         ___ ||       //''''''//    \\    //
-        //  \\   __ ___ || // __ ___  /    ||       ||     // ___  \\  //
-       //    \\ /  _`   ||// /  _`    '___ ||-----, ||___ // / _ \  \\//
-      //------\\| (_| |-||\\ | (_| |     / ||    || ||    \\| (_) |  ||
-     //        \\\__,_| || \\ \__,_| ___/  ||    || ||     \\\___/   ||
-
-                                                                       """)
-print("\n****************************************************************")
 
 import googleapiclient
 from datetime import datetime, timedelta
